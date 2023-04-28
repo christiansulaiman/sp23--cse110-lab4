@@ -1,0 +1,2 @@
+1. The function was adding the 2 input numbers as strings so num2 ends up being appended to num1 instead of summing their numerical values.
+2. Change the data types of num1 and num2 to turn it to integers instead of strings.
